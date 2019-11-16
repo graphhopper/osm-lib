@@ -187,11 +187,11 @@
       <artifactId>logback-classic</artifactId>
       <version>1.2.3</version>
     </dependency>
-    <!-- OSM PBF format support. Transitive dependency on Protobuf 3.4.0. -->
+    <!-- OSM PBF format support. Transitive dependency on Protobuf 3.6.1. -->
     <dependency>
       <groupId>org.openstreetmap.osmosis</groupId>
       <artifactId>osmosis-osm-binary</artifactId>
-      <version>0.45</version>
+      <version>0.47</version>
     </dependency>
     <!-- HTTP server for providing OSM extracts over HTTP. -->
     <dependency>
